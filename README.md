@@ -1,5 +1,7 @@
 # Advid
 
+![advid.gif](advid.gif)
+
 **Flexible Flash video player with minimalist skin**
 
 ## Features
